@@ -1,0 +1,20 @@
+{
+  "name": "hackernewsapp",
+  "version": "1.0.0",
+  "description": "You can read HackerNewsApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soobinLee84/HackerNewsApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soobinLee84/HackerNewsApp/issues"
+  },
+  "homepage": "https://github.com/soobinLee84/HackerNewsApp#readme"
+}
